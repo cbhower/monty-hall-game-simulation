@@ -1,2 +1,2 @@
-# monty-hall-game-simulation
-D door Monty Hall game simulation. Application of Bayes rule. 
+# monty-hall-game-simulation in Python.
+D-Doors Monty Hall game simulation. Application of Bayes rule. 
